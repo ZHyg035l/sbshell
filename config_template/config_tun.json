@@ -113,7 +113,7 @@
    ],
     
    "rule_set": [
-      { "tag": "geosite-yogurt", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ZHyg035l/sbshell/refs/heads/master/config_template/geosite_yogurt.json", "download_detour": "🎯 全球直连" }
+      { "tag": "geosite-yogurt", "type": "remote", "format": "source", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ZHyg035l/sbshell/refs/heads/mysbshell/config_template/geosite_yogurt.json", "download_detour": "🎯 全球直连" }
       { "tag": "geosite-chat", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/category-ai-!cn.srs", "download_detour": "🎯 全球直连" },
       { "tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "🎯 全球直连" },
       { "tag": "geosite-google", "type": "remote", "format": "binary", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs", "download_detour": "🎯 全球直连" },
