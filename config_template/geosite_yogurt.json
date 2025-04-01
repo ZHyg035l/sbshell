@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "6868a.cc",
+        "6868b.cc",
+        "6868c.cc",
+        "f666666.xyz"
+      ],
+      "domain_keyword": "6868"
+    }
+  ]
+}
